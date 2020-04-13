@@ -8,5 +8,5 @@ elif points <=150:
 elif points <=180:
     result = "Congratulations! You won a wafer-thin mint!"
 else:
-    results = "congratulations! You won a penguin!"
+    result = "congratulations! You won a penguin!"
 print(result)
